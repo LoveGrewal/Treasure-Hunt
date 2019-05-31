@@ -23,3 +23,7 @@ Clojure internally uses Java to run on JVM.
 ###Test Cases
 
 It will print the way to treasure if exist by a series of '+' sign and '!' will be those point which are checked before reaching to treasure and are dead end.
+
+###More Information
+
+Refer A2.pdf for assignment details
